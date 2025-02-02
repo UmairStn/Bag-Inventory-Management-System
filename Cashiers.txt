@@ -1,0 +1,2 @@
+1,Anura Kumara,akd123@gmail.com,0123456789,colombo colombo,akd
+2,Mahindha Rajapaksha,mahinda123@gmail.com,0123456789,vidyamawatha colombo,mahindha
